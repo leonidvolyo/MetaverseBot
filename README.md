@@ -10,4 +10,4 @@ The most important thing about this program, is that the basic "skeleton" may be
 -------------------------------------------------------------------------------------------
 
 
-# This program was created for entertainment purposes only and does not pursue any illegal purposes
+This program was created for entertainment purposes only and does not pursue any illegal purposes
