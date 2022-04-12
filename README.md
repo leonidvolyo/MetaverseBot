@@ -1,4 +1,4 @@
-# sandbox_bot
+# SandboxBot
 May be useful to buy LAND in Sandbox metaverse
 
 Sandbox_bot is a program, which is using Selenium to automate Land buying process.
